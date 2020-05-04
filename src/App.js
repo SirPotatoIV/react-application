@@ -6,8 +6,6 @@ import Users from "./routes/Users";
 import Navbar from "./components/Navbar";
 import "./App.css";
 
-const test = 12;
-
 function App() {
   return (
     <Router>
